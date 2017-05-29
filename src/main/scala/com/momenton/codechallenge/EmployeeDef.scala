@@ -1,4 +1,4 @@
-package momenton.code.challenge
+package com.momenton.codechallenge
 
 import com.typesafe.scalalogging.LazyLogging
 

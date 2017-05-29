@@ -1,4 +1,4 @@
-package momenton.code.challenge
+package com.momenton.codechallenge
 
 import org.scalatest.FunSuite
 import org.junit.runner.RunWith

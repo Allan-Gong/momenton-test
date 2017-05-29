@@ -1,4 +1,4 @@
-package momenton.code.challenge
+package com.momenton.codechallenge
 
 /**
   * A main object that can be used to execute this test.
